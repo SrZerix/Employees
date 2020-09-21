@@ -1,0 +1,141 @@
+
+
+        body{
+                background-color: bisque;
+                
+            }
+            
+            a{
+                text-decoration: none;
+                color:#000;   
+            }
+            
+    
+            
+            #dptList{
+               position:relative;
+               display:flex;
+               justify-content: center;
+            }
+            
+            #list2{
+                background-color: aquamarine;
+                position:absolute;
+               
+            }
+            
+            #ret{
+                padding: 10px; 
+                width:400px;
+            }
+            
+            #ret span{
+                justify-content: center;
+                display:flex;
+            }
+            
+            .content{
+                
+               
+                
+                display:flex;
+               justify-content: center;
+               
+                
+                
+               /*padding:8px;*/
+                
+            }
+            
+            #delete{
+               position:absolute;
+               margin-top:80px;
+            }
+            
+             #delete{
+               position:absolute;
+               background-color: beige;
+            }
+            
+            nav{
+                background-color: bisque;
+                position:relative;
+                display:flex;
+                justify-content: center;
+                margin-top: 25px;
+            }
+            #boxes{
+                background-color: aquamarine;
+                position:absolute;
+                display:flex;
+                padding:8px;
+               
+                
+            }
+            .linki{
+                padding: 10px;
+                border: solid 1px;
+            }
+            
+            #form{
+                position:relative;
+                justify-content: flex-start;
+                display:flex;
+                
+                margin-left: 30px;
+                margin-top: 30px;
+                
+            }
+            
+            #table{
+                
+                background-color: aquamarine;
+               border:solid 2px;
+               padding: 7px;
+               margin-top:80px; 
+              
+            }
+            
+            #table th{
+                margin-right: 3px;
+                display: flex;
+                border: solid 1px;
+                justify-content:flex-start;
+            }
+            
+            #list{
+                background-color: aquamarine;
+                position:absolute;
+                margin-bottom:  50px;
+                margin-right: 50px;
+        
+            }
+            
+            #list td{
+                border: solid 1px;
+            }
+            
+              #list td{
+                padding:8px;
+            }
+            
+                #list2 td{
+                border: solid 1px;
+            }
+            
+              #list2 td{
+                padding:8px;
+            }
+            
+            #divList{
+                position:relative;
+                margin-top: 50px;
+                 margin-left: 50px;
+                
+                
+            }
+            
+            .listHead{
+                display:flex;
+                justify-content: center;
+            }

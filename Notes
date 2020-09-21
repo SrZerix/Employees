@@ -1,0 +1,35 @@
+Friday - 4/10/2019
+
+   - The next views has been created.
+        * View Upper Employee
+        * View General List
+
+Sunday - 5/10/2019
+
+    - A simple CSS style has been aplicated.
+
+Monday - 7/10/2019
+
+    - A Employee Model has been created.
+
+    - A Controller Upper Employee has been created.
+
+        * Employee insert code has been created.
+
+    - A DAO Employee has been created.
+
+        * Employee insert code has been writed.
+        # Error control of inserts is missing.
+        # Employee update code is missing.
+        # Employee delete code is missing.
+        # Employee general list code is missing.
+
+    - A General View has been created.
+
+Tuesday - 8/10/2019
+
+    -A Controller Delete Employee has been created.
+
+    -A View Delete Employee has been created.
+
+    -A View General has been updated.
